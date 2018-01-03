@@ -1,15 +1,21 @@
 ---
 layout: page
-title: About
+title: Как Найти
 permalink: /about/
 ---
 
-Some information about you!
+### Адрес:
 
-### More Information
+Здесь должен быть адрес
 
-A place to include any other types of information that you'd like to include about yourself.
+### Телефон:
 
-### Contact me
+Телефон
 
-[email@domain.com](mailto:email@domain.com)
+### Карта:
+
+Гугл карта
+
+### Задайте вопрос по почте:
+
+[olga.sergeeva.0@gmail.com](mailto:olga.sergeeva.0+tonometer@gmail.com)
