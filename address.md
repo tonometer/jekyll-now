@@ -16,6 +16,6 @@ permalink: /address/
 
 [Проложить маршрут](https://www.google.com/maps/dir//%2742.873729,74.610831%27?_ga=2.217144022.1955399278.1515005349-1894730690.1515005349)
 
-### Есть вопрос:
+### Есть вопрос?
 
-[Контакты](https://tonometer.github.io/contacts/)
+[Свяжитесь](https://tonometer.github.io/contacts/)
