@@ -14,4 +14,4 @@ permalink: /about/
 
 ### Есть вопрос?
 
-[]
+[Свяжитесь](https://tonometer.github.io/contacts/)
