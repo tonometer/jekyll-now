@@ -6,7 +6,7 @@ permalink: /contacts/
 
 ### Адрес:
 
-[г. Бишкек, ул. Абдрахманова 176](https://tonometer.github.io/about/)
+[г. Бишкек, ул. Абдрахманова 176](https://tonometer.github.io/address/)
 
 ### Телефон:
 
